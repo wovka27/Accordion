@@ -6,11 +6,6 @@ class Accordion {
 
 		this.init();
 	}
-	toHTML(item) {
-
-	}
-
-
 
 	show(item) {
 		const acc_head = item.firstElementChild,
